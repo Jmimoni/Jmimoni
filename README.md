@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on https://huntr.dev
 - 📫 How to reach me: jake@418sec.com
-- ⚡ Fun fact: Anatidaephobia is the fear that somewhere in the world, there is a duck watching you...
+- ⚡ Fun fact: Anatidaephobia is the fear that somewhere in the world, a duck is watching you...
 
 <!--
 **Jmimoni/Jmimoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
