@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [huntr.dev](huntr.dev)
+- 🔭 I’m currently working on https://huntr.dev
 - 📫 How to reach me: jake@418sec.com
 - ⚡ Fun fact: Anatidaephobia is the fear that somewhere in the world, there is a duck watching you...
 
