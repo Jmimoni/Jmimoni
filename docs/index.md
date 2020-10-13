@@ -1,4 +1,3 @@
-## Intro
 ## Mantras/Beliefs
 ## Experience
 ## Investment
