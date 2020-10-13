@@ -3,7 +3,7 @@
 ## Experience
 ## Investment
 ## Family
-  ### Family Tree
+## Family Tree
 ## Businesses
 ## Books
 ## Problems to solve
