@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on https://huntr.dev
-- 📫 How to reach me: jake@418sec.com
+- 📫 How to reach me: jakemimoni123@gmail.com
 - ⚡ Fun fact: Anatidaephobia is the fear that somewhere in the world, a duck is watching you...
 
 <!--
